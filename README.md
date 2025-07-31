@@ -123,4 +123,4 @@ Don't forget to give the project a star! Thanks again!
 ## Contact
 
 Your Name - [prithivi2303@gmail.com](mailto:your-email@example.com)
-Project Link: [https://github.com/PrethivrajGS/notes-keeper](https://github.com/PrethivrajGS/notes-keeper)
+Project Link: [https://github.com/PrethivrajGS/NotesKeeper](https://github.com/PrethivrajGS/NotesKeeper)
