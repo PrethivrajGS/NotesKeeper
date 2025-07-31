@@ -27,7 +27,7 @@ A simple and intuitive web application for creating, managing, and organizing yo
 
 Here's a glimpse of the Notes Keeper in action:
 
-![Notes Keeper Screenshot](image_787ac5.jpg)
+![Notes Keeper Screenshot]("F:\SEM 4\FULLSTOCK\project\notes\Screenshot 2025-07-31 124307.png")
 *Screenshot showcasing the main interface with note creation, existing notes, and edit/delete options.*
 
 ## Technologies Used
