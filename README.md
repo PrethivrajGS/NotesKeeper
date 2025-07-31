@@ -119,11 +119,8 @@ Don't forget to give the project a star! Thanks again!
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
 Your Name - [prithivi2303@gmail.com](mailto:your-email@example.com)
-Project Link: [https://github.com/PrethivrajGS/notes-keeper](https://github.com/your-username/notes-keeper)
+Project Link: [https://github.com/PrethivrajGS/notes-keeper](https://github.com/PrethivrajGS/notes-keeper)
