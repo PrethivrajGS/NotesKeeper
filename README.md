@@ -27,7 +27,7 @@ A simple and intuitive web application for creating, managing, and organizing yo
 
 Here's a glimpse of the Notes Keeper in action:
 
-![Notes Keeper Screenshot]("C:\Users\Admin\Desktop\Pictures\Screenshots")
+![Notes Keeper Screenshot]("images/Notes%20Keeper%20")
 *Screenshot showcasing the main interface with note creation, existing notes, and edit/delete options.*
 
 ## Technologies Used
